@@ -2,11 +2,13 @@
 Im a script engineer and linux enthusiast from germany. Im currently working on a few Telegram Bots using Python and Go.<br>
 <br>
 - Web:      schmuel.net<br>
+- Mail:     git@schmuel.net<br>
 - Telegram: @schmuel<br>
 - Threema:  5VDYSWCK<br>
-- Mail:     git@schmuel.net<br>
 - Jabber:   schmuel@jabber.de<br>
+- Matrix:   @schmue1:matrix.org
 - Okuna:    @schmuel<br>
+- Untappd:  @schmuel
 
 <!---
 SchmueI/SchmueI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
