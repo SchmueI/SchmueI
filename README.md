@@ -5,9 +5,7 @@ Im a script engineer and linux enthusiast from germany. Im currently working on 
 - Mail:     git@schmuel.net<br>
 - Telegram: @schmuel<br>
 - Threema:  5VDYSWCK<br>
-- Jabber:   schmuel@jabber.de<br>
 - Matrix:   @schmue1:matrix.org
-- Okuna:    @schmuel<br>
 - Untappd:  @schmuel
 
 <!---
