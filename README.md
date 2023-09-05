@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Schmuel <br>
-Im a script engineer and linux enthusiast from germany. Im currently working on a few Telegram Bots using Python and Go.<br>
+ 👋 Hi, I’m Schmuel <br>
+
+Just a Linux enthusiast doing hobby projects with JS and python. Mobile Linux is the future, trust me.<br>
+
 <br>
+
 - Web:      schmuel.net<br>
 - Mail:     git@schmuel.net<br>
 - Telegram: @schmuel<br>
-- Threema:  5VDYSWCK<br>
 - Matrix:   @schmue1:matrix.org<br>
 - Untappd:  @schmuel
 
