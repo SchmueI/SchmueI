@@ -1,6 +1,7 @@
- 👋 Hi, I’m Schmuel <br>
+ 👋 Hi I'm Schmuel
 
-Just a Linux enthusiast doing hobby projects with JS and python. Mobile Linux is the future, trust me.<br>
+a mobile linux enthusiast from germany, sharing my hobby projects with everyone.
+Currently I am working with Python and JS, mainly for web-automatisation and small tools for my daily life. If there is time left, I use it to contribute to some fancy projects ^^
 
 <br>
 
